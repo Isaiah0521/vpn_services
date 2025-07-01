@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">vpn_services</string>
+    <string name="accessibility_service_description">Blocks access to certain websites in Chrome.</string>
+</resources>
